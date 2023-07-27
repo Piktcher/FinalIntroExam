@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\bin\Debug\net7.0\Итоговая контрольная работа_1.exe
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\bin\Debug\net7.0\Итоговая контрольная работа_1.deps.json
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\bin\Debug\net7.0\Итоговая контрольная работа_1.runtimeconfig.json
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\bin\Debug\net7.0\Итоговая контрольная работа_1.dll
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\bin\Debug\net7.0\Итоговая контрольная работа_1.pdb
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\obj\Debug\net7.0\Итоговая контрольная работа_1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\obj\Debug\net7.0\Итоговая контрольная работа_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\obj\Debug\net7.0\Итоговая контрольная работа_1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\obj\Debug\net7.0\Итоговая контрольная работа_1.AssemblyInfo.cs
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\obj\Debug\net7.0\Итоговая контрольная работа_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\obj\Debug\net7.0\Итоговая контрольная работа_1.dll
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\obj\Debug\net7.0\refint\Итоговая контрольная работа_1.dll
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\obj\Debug\net7.0\Итоговая контрольная работа_1.pdb
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\obj\Debug\net7.0\Итоговая контрольная работа_1.genruntimeconfig.cache
+C:\Users\user\Desktop\Обучение гик\Итоговая контрольная работа_1\obj\Debug\net7.0\ref\Итоговая контрольная работа_1.dll
