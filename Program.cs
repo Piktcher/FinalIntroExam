@@ -15,5 +15,5 @@
     }
 }
 
-string[] array = {"1234", "1567", "-2", "computer science"};
+string[] array = {"1234", "1567", "-222", "computer science"};
 CopyElementstoArray(array);
